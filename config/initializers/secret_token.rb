@@ -1,0 +1,1 @@
+Bloop::Application.config.secret_key_base = 'cd3c6ab4da9eef0b40f851b8980848e0d37da3fc9775d1dce5d85453ef8b8383c0aff0980794e04e56f00f09b6b71135b5579c27d1ceeda0b8df64375a77006e'
